@@ -9,7 +9,7 @@ targetType "staticLibrary"
 targetPath "lib"
 targetName "BindBC_Nanovg"
 
-dependency "bindbc-loader" version="~>0.1.0"
+dependency "bindbc-loader" version="~>0.3.0"
 
 configuration "dynamic" {
 }
